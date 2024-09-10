@@ -1,5 +1,5 @@
 # DIO-Phishing
- Curso de Formação Cybersecurity Specialist da DIO, desafio de phishing com Kali Linux
+ Curso de Formação Cybersecurity Specialist da DIO, desafio de phishing com Kali Linux - USADO PARA FINS EDUCACIONAIS
 
 # Phishing para captura de senhas do Facebook
 
